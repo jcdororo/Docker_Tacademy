@@ -1,6 +1,6 @@
 # Docker_Tacademy
 
-T아카데미 (https://tacademy.skplanet.com/frontMain.action) 에서 도커에대해 배 영상을 정리한 내용입니다.
+T아카데미 (https://tacademy.skplanet.com/frontMain.action) 에서 도커에대해 배운 영상을 정리한 내용입니다.
 
 윈도우 홈버전 도커 설치방법
 ========================
